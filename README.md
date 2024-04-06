@@ -5,6 +5,14 @@ We provide a simple example in the "Data Collector API" folder; check the file "
 
 ## A Simple Client Example:
 In this example code, the client will transmit a file called "Example.png" to the server, and you can find the file in the server folder at "./Receive/Received.png". Hope you enjoy!
+
+1. Please ensure you have built the server up.
+2. The server will run on the default port 35525; you can change it yourself.
+3. Make sure you have prepared the target upload file, which in this example is "Example.png".
+4. Copy the following code and execute it, the file will be uploaded to the server.
+5. After uploading is finished, check the server folder. There must be a folder called "Receive". Inside it, you will find the file named "Received.png", which is specified in the parameter "Target_Path".
+6. Enjoy.
+
 ```python
 from Data_Collector_API import Data_Updater
 
