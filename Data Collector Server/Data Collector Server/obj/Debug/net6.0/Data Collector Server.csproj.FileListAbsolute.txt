@@ -1,0 +1,58 @@
+M:\mmdb\Data Collector Server\Data Collector Server\bin\Debug\net6.0\Data Collector Server.exe
+M:\mmdb\Data Collector Server\Data Collector Server\bin\Debug\net6.0\Data Collector Server.deps.json
+M:\mmdb\Data Collector Server\Data Collector Server\bin\Debug\net6.0\Data Collector Server.runtimeconfig.json
+M:\mmdb\Data Collector Server\Data Collector Server\bin\Debug\net6.0\Data Collector Server.dll
+M:\mmdb\Data Collector Server\Data Collector Server\bin\Debug\net6.0\Data Collector Server.pdb
+M:\mmdb\Data Collector Server\Data Collector Server\obj\Debug\net6.0\Data Collector Server.csproj.AssemblyReference.cache
+M:\mmdb\Data Collector Server\Data Collector Server\obj\Debug\net6.0\Data Collector Server.GeneratedMSBuildEditorConfig.editorconfig
+M:\mmdb\Data Collector Server\Data Collector Server\obj\Debug\net6.0\Data Collector Server.AssemblyInfoInputs.cache
+M:\mmdb\Data Collector Server\Data Collector Server\obj\Debug\net6.0\Data Collector Server.AssemblyInfo.cs
+M:\mmdb\Data Collector Server\Data Collector Server\obj\Debug\net6.0\Data Collector Server.csproj.CoreCompileInputs.cache
+M:\mmdb\Data Collector Server\Data Collector Server\obj\Debug\net6.0\Data Collector Server.dll
+M:\mmdb\Data Collector Server\Data Collector Server\obj\Debug\net6.0\refint\Data Collector Server.dll
+M:\mmdb\Data Collector Server\Data Collector Server\obj\Debug\net6.0\Data Collector Server.pdb
+M:\mmdb\Data Collector Server\Data Collector Server\obj\Debug\net6.0\Data Collector Server.genruntimeconfig.cache
+M:\mmdb\Data Collector Server\Data Collector Server\obj\Debug\net6.0\ref\Data Collector Server.dll
+M:\mmdb\Systems\Pig Data Collector\Data Collector Server\Data Collector Server\bin\Debug\net6.0\Data Collector Server.exe
+M:\mmdb\Systems\Pig Data Collector\Data Collector Server\Data Collector Server\bin\Debug\net6.0\Data Collector Server.deps.json
+M:\mmdb\Systems\Pig Data Collector\Data Collector Server\Data Collector Server\bin\Debug\net6.0\Data Collector Server.runtimeconfig.json
+M:\mmdb\Systems\Pig Data Collector\Data Collector Server\Data Collector Server\bin\Debug\net6.0\Data Collector Server.dll
+M:\mmdb\Systems\Pig Data Collector\Data Collector Server\Data Collector Server\bin\Debug\net6.0\Data Collector Server.pdb
+M:\mmdb\Systems\Pig Data Collector\Data Collector Server\Data Collector Server\obj\Debug\net6.0\Data Collector Server.csproj.AssemblyReference.cache
+M:\mmdb\Systems\Pig Data Collector\Data Collector Server\Data Collector Server\obj\Debug\net6.0\Data Collector Server.GeneratedMSBuildEditorConfig.editorconfig
+M:\mmdb\Systems\Pig Data Collector\Data Collector Server\Data Collector Server\obj\Debug\net6.0\Data Collector Server.AssemblyInfoInputs.cache
+M:\mmdb\Systems\Pig Data Collector\Data Collector Server\Data Collector Server\obj\Debug\net6.0\Data Collector Server.AssemblyInfo.cs
+M:\mmdb\Systems\Pig Data Collector\Data Collector Server\Data Collector Server\obj\Debug\net6.0\Data Collector Server.csproj.CoreCompileInputs.cache
+M:\mmdb\Systems\Pig Data Collector\Data Collector Server\Data Collector Server\obj\Debug\net6.0\Data Collector Server.dll
+M:\mmdb\Systems\Pig Data Collector\Data Collector Server\Data Collector Server\obj\Debug\net6.0\refint\Data Collector Server.dll
+M:\mmdb\Systems\Pig Data Collector\Data Collector Server\Data Collector Server\obj\Debug\net6.0\Data Collector Server.pdb
+M:\mmdb\Systems\Pig Data Collector\Data Collector Server\Data Collector Server\obj\Debug\net6.0\Data Collector Server.genruntimeconfig.cache
+M:\mmdb\Systems\Pig Data Collector\Data Collector Server\Data Collector Server\obj\Debug\net6.0\ref\Data Collector Server.dll
+H:\共用雲端硬碟\CIoT\Pig Data Collector\Data Collector Server\Data Collector Server\bin\Debug\net6.0\Data Collector Server.exe
+H:\共用雲端硬碟\CIoT\Pig Data Collector\Data Collector Server\Data Collector Server\bin\Debug\net6.0\Data Collector Server.deps.json
+H:\共用雲端硬碟\CIoT\Pig Data Collector\Data Collector Server\Data Collector Server\bin\Debug\net6.0\Data Collector Server.runtimeconfig.json
+H:\共用雲端硬碟\CIoT\Pig Data Collector\Data Collector Server\Data Collector Server\bin\Debug\net6.0\Data Collector Server.dll
+H:\共用雲端硬碟\CIoT\Pig Data Collector\Data Collector Server\Data Collector Server\bin\Debug\net6.0\Data Collector Server.pdb
+H:\共用雲端硬碟\CIoT\Pig Data Collector\Data Collector Server\Data Collector Server\obj\Debug\net6.0\Data Collector Server.GeneratedMSBuildEditorConfig.editorconfig
+H:\共用雲端硬碟\CIoT\Pig Data Collector\Data Collector Server\Data Collector Server\obj\Debug\net6.0\Data Collector Server.AssemblyInfoInputs.cache
+H:\共用雲端硬碟\CIoT\Pig Data Collector\Data Collector Server\Data Collector Server\obj\Debug\net6.0\Data Collector Server.AssemblyInfo.cs
+H:\共用雲端硬碟\CIoT\Pig Data Collector\Data Collector Server\Data Collector Server\obj\Debug\net6.0\Data Collector Server.csproj.CoreCompileInputs.cache
+H:\共用雲端硬碟\CIoT\Pig Data Collector\Data Collector Server\Data Collector Server\obj\Debug\net6.0\Data Collector Server.dll
+H:\共用雲端硬碟\CIoT\Pig Data Collector\Data Collector Server\Data Collector Server\obj\Debug\net6.0\refint\Data Collector Server.dll
+H:\共用雲端硬碟\CIoT\Pig Data Collector\Data Collector Server\Data Collector Server\obj\Debug\net6.0\Data Collector Server.pdb
+H:\共用雲端硬碟\CIoT\Pig Data Collector\Data Collector Server\Data Collector Server\obj\Debug\net6.0\Data Collector Server.genruntimeconfig.cache
+H:\共用雲端硬碟\CIoT\Pig Data Collector\Data Collector Server\Data Collector Server\obj\Debug\net6.0\ref\Data Collector Server.dll
+C:\Users\zzz3x\OneDrive\桌面\Pig Data Collector\Data Collector Server\Data Collector Server\bin\Debug\net6.0\Data Collector Server.exe
+C:\Users\zzz3x\OneDrive\桌面\Pig Data Collector\Data Collector Server\Data Collector Server\bin\Debug\net6.0\Data Collector Server.deps.json
+C:\Users\zzz3x\OneDrive\桌面\Pig Data Collector\Data Collector Server\Data Collector Server\bin\Debug\net6.0\Data Collector Server.runtimeconfig.json
+C:\Users\zzz3x\OneDrive\桌面\Pig Data Collector\Data Collector Server\Data Collector Server\bin\Debug\net6.0\Data Collector Server.dll
+C:\Users\zzz3x\OneDrive\桌面\Pig Data Collector\Data Collector Server\Data Collector Server\bin\Debug\net6.0\Data Collector Server.pdb
+C:\Users\zzz3x\OneDrive\桌面\Pig Data Collector\Data Collector Server\Data Collector Server\obj\Debug\net6.0\Data Collector Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zzz3x\OneDrive\桌面\Pig Data Collector\Data Collector Server\Data Collector Server\obj\Debug\net6.0\Data Collector Server.AssemblyInfoInputs.cache
+C:\Users\zzz3x\OneDrive\桌面\Pig Data Collector\Data Collector Server\Data Collector Server\obj\Debug\net6.0\Data Collector Server.AssemblyInfo.cs
+C:\Users\zzz3x\OneDrive\桌面\Pig Data Collector\Data Collector Server\Data Collector Server\obj\Debug\net6.0\Data Collector Server.csproj.CoreCompileInputs.cache
+C:\Users\zzz3x\OneDrive\桌面\Pig Data Collector\Data Collector Server\Data Collector Server\obj\Debug\net6.0\Data Collector Server.dll
+C:\Users\zzz3x\OneDrive\桌面\Pig Data Collector\Data Collector Server\Data Collector Server\obj\Debug\net6.0\refint\Data Collector Server.dll
+C:\Users\zzz3x\OneDrive\桌面\Pig Data Collector\Data Collector Server\Data Collector Server\obj\Debug\net6.0\Data Collector Server.pdb
+C:\Users\zzz3x\OneDrive\桌面\Pig Data Collector\Data Collector Server\Data Collector Server\obj\Debug\net6.0\Data Collector Server.genruntimeconfig.cache
+C:\Users\zzz3x\OneDrive\桌面\Pig Data Collector\Data Collector Server\Data Collector Server\obj\Debug\net6.0\ref\Data Collector Server.dll
